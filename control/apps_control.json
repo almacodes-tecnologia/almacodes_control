@@ -9,7 +9,7 @@
       "changelog": "Activada redundancia triple de servidores.",
       "urls": {
         "apk": [
-          "https://almacodes.netlify.app/ecos_del_ciclismo/ecos_del_ciclismo.apk",
+          "https://almacodes.netlify.app/apk/ecos_del_ciclismo/ecos_del_ciclismo.apk",
           "https://gitlab.com/almacodes_tecnologia/almacodes_apps/-/raw/main/master/apk/ecos_del_ciclismo/ecos_del_ciclismo.apk",
           "https://raw.githubusercontent.com/almacodes-tecnologia/almacodes_apps/main/apk/ecos_del_ciclismo/ecos_del_ciclismo.apk"
         ],
@@ -27,7 +27,7 @@
       "changelog": "Activada redundancia triple de servidores.",
       "urls": {
         "apk": [
-          "https://almacodes.netlify.app/ecos_meteorologicos/ecos_meteorologicos.apk",
+          "https://almacodes.netlify.app/apk/ecos_meteorologicos/ecos_meteorologicos.apk",
           "https://gitlab.com/almacodes_tecnologia/almacodes_apps/-/raw/main/master/apk/ecos_meteorologicos/ecos_meteorologicos.apk",
           "https://raw.githubusercontent.com/almacodes-tecnologia/almacodes_apps/main/apk/ecos_meteorologicos/ecos_meteorologicos.apk"
         ],
@@ -45,7 +45,7 @@
       "changelog": "Activada redundancia triple de servidores.",
       "urls": {
         "apk": [
-          "https://almacodes.netlify.app/ecos_culinarios/ecos_culinarios.apk",
+          "https://almacodes.netlify.app/apk/ecos_culinarios/ecos_culinarios.apk",
           "https://gitlab.com/almacodes_tecnologia/almacodes_apps/-/raw/main/master/apk/ecos_culinarios/ecos_culinarios.apk",
           "https://raw.githubusercontent.com/almacodes-tecnologia/almacodes_apps/main/apk/ecos_culinarios/ecos_culinarios.apk"
         ],
