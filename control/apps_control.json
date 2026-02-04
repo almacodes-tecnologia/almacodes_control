@@ -9,7 +9,7 @@
       "changelog": "Activada redundancia triple de servidores.",
       "urls": {
         "apk": [
-          "https://almacodes.netlify.app/ciclismo/ecos_del_ciclismo.apk",
+          "https://almacodes.netlify.app/ecos_del_ciclismo/ecos_del_ciclismo.apk",
           "https://gitlab.com/almacodes_tecnologia/almacodes_apps/-/raw/main/master/apk/ecos_del_ciclismo/ecos_del_ciclismo.apk",
           "https://raw.githubusercontent.com/almacodes-tecnologia/almacodes_apps/main/apk/ecos_del_ciclismo/ecos_del_ciclismo.apk"
         ],
