@@ -1,0 +1,59 @@
+{
+  "last_update_global": "2026-02-04",
+  "apps": [
+    {
+      "id": "ecos_del_ciclismo",
+      "version_name": "1.0.0",
+      "version_code": 2,
+      "force_update": false,
+      "changelog": "Activada redundancia triple de servidores.",
+      "urls": {
+        "apk": [
+          "https://almacodes.netlify.app/ciclismo/ecos_del_ciclismo.apk",
+          "https://gitlab.com/almacodes_tecnologia/almacodes_apps/-/raw/main/master/apk/ecos_del_ciclismo/ecos_del_ciclismo.apk",
+          "https://raw.githubusercontent.com/almacodes-tecnologia/almacodes_apps/main/apk/ecos_del_ciclismo/ecos_del_ciclismo.apk"
+        ],
+        "datos_base": [
+          "https://almacodes-tecnologia.github.io/ecos_del_ciclismo/assets",
+          "https://almacodes.netlify.app/ciclismo/json"
+        ]
+      }
+    },
+    {
+      "id": "ecos_meteorologicos",
+      "version_name": "1.0.0",
+      "version_code": 2,
+      "force_update": false,
+      "changelog": "Activada redundancia triple de servidores.",
+      "urls": {
+        "apk": [
+          "https://almacodes.netlify.app/ecos_meteorologicos/ecos_meteorologicos.apk",
+          "https://gitlab.com/almacodes_tecnologia/almacodes_apps/-/raw/main/master/apk/ecos_meteorologicos/ecos_meteorologicos.apk",
+          "https://raw.githubusercontent.com/almacodes-tecnologia/almacodes_apps/main/apk/ecos_meteorologicos/ecos_meteorologicos.apk"
+        ],
+        "datos_base": [
+          "https://almacodes-tecnologia.github.io/ecos_meteorologicos/assets",
+          "https://almacodes.netlify.app/ecos_meteorologicos/json"
+        ]
+      }
+    },
+    {
+      "id": "ecos_culinarios",
+      "version_name": "1.0.0",
+      "version_code": 2,
+      "force_update": false,
+      "changelog": "Activada redundancia triple de servidores.",
+      "urls": {
+        "apk": [
+          "https://almacodes.netlify.app/ecos_culinarios/ecos_culinarios.apk",
+          "https://gitlab.com/almacodes_tecnologia/almacodes_apps/-/raw/main/master/apk/ecos_culinarios/ecos_culinarios.apk",
+          "https://raw.githubusercontent.com/almacodes-tecnologia/almacodes_apps/main/apk/ecos_culinarios/ecos_culinarios.apk"
+        ],
+        "datos_base": [
+          "https://almacodes-tecnologia.github.io/ecos_culinarios/assets",
+          "https://almacodes.netlify.app/ecos_culinarios/json"
+        ]
+      }
+    }
+  ]
+}
