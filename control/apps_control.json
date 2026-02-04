@@ -16,6 +16,9 @@
         "datos_base": [
           "https://almacodes-tecnologia.github.io/ecos_del_ciclismo/assets",
           "https://almacodes.netlify.app/ciclismo/json"
+        ],
+        "imagenes_base": [
+          "https://cdn.jsdelivr.net/gh/jesus-larrodera/ecos_del_ciclismo@main/imagenes"
         ]
       }
     },
@@ -34,6 +37,9 @@
         "datos_base": [
           "https://almacodes-tecnologia.github.io/ecos_meteorologicos/assets",
           "https://almacodes.netlify.app/ecos_meteorologicos/json"
+        ],
+        "imagenes_base": [
+          "https://cdn.jsdelivr.net/gh/jesus-larrodera/ecos_meteorologicos@main/imagenes"
         ]
       }
     },
@@ -52,6 +58,9 @@
         "datos_base": [
           "https://almacodes-tecnologia.github.io/ecos_culinarios/assets",
           "https://almacodes.netlify.app/ecos_culinarios/json"
+        ],
+        "imagenes_base": [
+          "https://cdn.jsdelivr.net/gh/jesus-larrodera/ecos_culinarios@main/imagenes"
         ]
       }
     }
