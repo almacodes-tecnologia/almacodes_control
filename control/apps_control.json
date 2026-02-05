@@ -63,6 +63,23 @@
           "https://cdn.jsdelivr.net/gh/jesus-larrodera/ecos_culinarios@main/imagenes"
         ]
       }
-    }
+    },
+    {
+      "id": "ecos_del_presente",
+      "version_code": 1,
+      "version_name": "1.0.0",
+      "force_update": false,
+      "urls": {
+        "datos_base": [
+          "https://almacodes-tecnologia.github.io/ecos_del_presente/assets",
+          "https://ecosdelpresente.netlify.app/assets"
+        ],
+        "apk": [
+          "https://github.com/almacodes-tecnologia/ecos_del_presente/releases/download/v1.0.0/app-release.apk"
+        ],
+        "imagenes_base": [
+          "https://cdn.jsdelivr.net/gh/jesus-larrodera/ecos@main/ecos_del_presente/imagenes"
+        ]
+      }
   ]
 }
