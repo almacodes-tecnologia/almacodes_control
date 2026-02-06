@@ -53,7 +53,7 @@
         "apk": [
           "https://almacodes.netlify.app/apk/ecos_culinarios/ecos_culinarios.apk",
           "https://gitlab.com/almacodes_tecnologia/almacodes_apps/-/raw/main/master/apk/ecos_culinarios/ecos_culinarios.apk",
-          "https://raw.githubusercontent.com/almacodes-tecnologia/almacodes_apps/main/apk/ecos_culinarios/ecos_culinarios.apk"
+          "https://github.com/almacodes-network/ecos_culinarios/releases/latest/download/ecos_culinarios.apk"
         ],
         "datos_base": [
           "https://almacodes-tecnologia.github.io/ecos_culinarios/assets",
