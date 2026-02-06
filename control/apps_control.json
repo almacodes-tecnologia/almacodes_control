@@ -30,9 +30,9 @@
       "changelog": "Activada redundancia triple de servidores.",
       "urls": {
         "apk": [
-          "https://almacodes.netlify.app/apk/ecos_meteorologicos/ecos_meteorologicos.apk",
           "https://gitlab.com/almacodes_tecnologia/almacodes_apps/-/raw/main/master/apk/ecos_meteorologicos/ecos_meteorologicos.apk",
-          "https://raw.githubusercontent.com/almacodes-tecnologia/almacodes_apps/main/apk/ecos_meteorologicos/ecos_meteorologicos.apk"
+          "https://raw.githubusercontent.com/almacodes-tecnologia/almacodes_apps/main/apk/ecos_meteorologicos/ecos_meteorologicos.apk",
+          "https://almacodes.netlify.app/apk/ecos_meteorologicos/ecos_meteorologicos.apk"
         ],
         "datos_base": [
           "https://almacodes-tecnologia.github.io/ecos_meteorologicos/assets",
