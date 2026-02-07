@@ -60,7 +60,8 @@
           "https://ecosculinarios.netlify.app/assets"
         ],
         "imagenes_base": [
-          "https://cdn.jsdelivr.net/gh/jesus-larrodera/ecos_culinarios@main/imagenes"
+          "https://cdn.jsdelivr.net/gh/almacodes-network/ecos_culinarios@main/imagenes",
+          "_old_https://cdn.jsdelivr.net/gh/jesus-larrodera/ecos_culinarios@main/imagenes"
         ]
       }
     },
