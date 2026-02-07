@@ -51,7 +51,7 @@
       "changelog": "Activada redundancia triple de servidores.",
       "urls": {
         "apk": [
-          "https://github.com/almacodes-network/ecos_culinarios/releases/latest/download/ecos_culinarios.apk",
+          "https://github.com/jesus-larrodera/ecos_culinarios/releases/latest/download/ecos_culinarios.apk",
           "https://gitlab.com/almacodes_tecnologia/almacodes_apps/-/raw/main/master/apk/ecos_culinarios/ecos_culinarios.apk",
           "https://almacodes.netlify.app/apk/ecos_culinarios/ecos_culinarios.apk"
         ],
