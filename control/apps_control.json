@@ -4,7 +4,7 @@
     {
       "id": "ecos_del_ciclismo",
       "version_name": "1.0.0",
-      "version_code": 1,
+      "version_code": 2,
       "force_update": false,
       "changelog": "Activada redundancia triple de servidores.",
       "urls": {
@@ -12,6 +12,10 @@
           "https://almacodes.netlify.app/apk/ecos_del_ciclismo/ecos_del_ciclismo.apk",
           "https://gitlab.com/almacodes_tecnologia/almacodes_apps/-/raw/main/master/apk/ecos_del_ciclismo/ecos_del_ciclismo.apk",
           "https://raw.githubusercontent.com/almacodes-tecnologia/almacodes_apps/main/apk/ecos_del_ciclismo/ecos_del_ciclismo.apk"
+        ],
+        "apk_externo": [
+          {"nombre": "Uptodown", "url": "https://uptodown.com/..."},
+          {"nombre": "Itch.io", "url": "https://itch.io/..."}
         ],
         "datos_base": [
           "https://almacodes-tecnologia.github.io/ecos_del_ciclismo/assets",
