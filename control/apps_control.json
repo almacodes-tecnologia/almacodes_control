@@ -59,6 +59,10 @@
           "https://gitlab.com/almacodes_tecnologia/almacodes_apps/-/raw/main/master/apk/ecos_culinarios/ecos_culinarios.apk",
           "https://almacodes.netlify.app/apk/ecos_culinarios/ecos_culinarios.apk"
         ],
+        "apk_externo": [
+          {"nombre": "Uptodown", "url": "https://uptodown.com/..."},
+          {"nombre": "Itch.io", "url": "https://itch.io/..."}
+        ],
         "datos_base": [
           "https://almacodes-tecnologia.github.io/ecos_culinarios/assets",
           "https://ecosculinarios.netlify.app/assets"
