@@ -1,5 +1,5 @@
 {
-  "last_update_global": "2026-02-04",
+  "last_update_global": "2026-02-17",
   "apps": [
     {
       "id": "ecos_del_ciclismo",
@@ -37,6 +37,10 @@
           "https://github.com/almacodes-network/ecos_meteorologicos/releases/latest/download/ecos_meteorologicos.apk",
           "https://gitlab.com/almacodes_tecnologia/almacodes_apps/-/raw/main/master/apk/ecos_meteorologicos/ecos_meteorologicos.apk",
           "https://almacodes.netlify.app/apk/ecos_meteorologicos/ecos_meteorologicos.apk"
+        ],
+        "apk_externo": [
+          {"nombre": "Uptodown", "url": "https://uptodown.com/..."},
+          {"nombre": "Itch.io", "url": "https://itch.io/..."}
         ],
         "datos_base": [
           "https://almacodes-tecnologia.github.io/ecos_meteorologicos/assets",
@@ -85,6 +89,10 @@
         ],
         "apk": [
           "https://github.com/almacodes-tecnologia/ecos_del_presente/releases/download/v1.0.0/app-release.apk"
+        ],
+        "apk_externo": [
+          {"nombre": "Uptodown", "url": "https://uptodown.com/..."},
+          {"nombre": "Itch.io", "url": "https://itch.io/..."}
         ],
         "imagenes_base": [
           "https://cdn.jsdelivr.net/gh/jesus-larrodera/ecos@main/ecos_del_presente/imagenes"
