@@ -35,7 +35,6 @@
       "urls": {
         "apk": [
           "https://github.com/almacodes-network/ecos_meteorologicos/releases/latest/download/ecos_meteorologicos.apk",
-          "https://gitlab.com/almacodes_tecnologia/almacodes_apps/-/raw/main/master/apk/ecos_meteorologicos/ecos_meteorologicos.apk",
           "https://almacodes.netlify.app/apk/ecos_meteorologicos/ecos_meteorologicos.apk"
         ],
         "apk_externo": [
