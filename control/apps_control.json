@@ -86,7 +86,7 @@
           "https://ecosdelpresente.netlify.app/assets"
         ],
         "apk": [
-          "https://github.com/almacodes-tecnologia/ecos_del_presente/releases/download/v1.0.0/app-release.apk"
+          "https://github.com/almacodes-network/ecos_del_presente/releases/latest/download/ecos_del_presente.apk"
         ],
         "apk_externo": [
           {"nombre": "Uptodown", "url": "https://uptodown.com/..."},
@@ -94,6 +94,28 @@
         ],
         "imagenes_base": [
           "https://cdn.jsdelivr.net/gh/jesus-larrodera/ecos@main/ecos_del_presente/imagenes"
+        ]
+      }
+    },
+    {
+      "id": "ecos_del_pasado",
+      "version_code": 2,
+      "version_name": "1.0.0",
+      "force_update": false,
+      "urls": {
+        "datos_base": [
+          "https://almacodes-tecnologia.github.io/ecos_del_pasado/assets",
+          "https://ecosdelpasado.netlify.app/assets"
+        ],
+        "apk": [
+          "https://github.com/almacodes-network/ecos_del_pasado/releases/latest/download/ecos_del_pasado.apk"
+        ],
+        "apk_externo": [
+          {"nombre": "Uptodown", "url": "https://uptodown.com/..."},
+          {"nombre": "Itch.io", "url": "https://itch.io/..."}
+        ],
+        "imagenes_base": [
+          "https://cdn.jsdelivr.net/gh/jesus-larrodera/ecos@main/ecos_del_pasado/imagenes"
         ]
       }
     }
