@@ -15,7 +15,7 @@
         ],
         "apk_externo": [
           {"nombre": "Uptodown", "url": "https://uptodown.com/..."},
-          {"nombre": "Itch.io", "url": "https://itch.io/..."}
+          {"nombre": "Itch.io", "url": "https://almacodes.itch.io/ecos-del-ciclismo"}
         ],
         "datos_base": [
           "https://almacodes-tecnologia.github.io/ecos_del_ciclismo/assets",
@@ -39,7 +39,7 @@
         ],
         "apk_externo": [
           {"nombre": "Uptodown", "url": "https://uptodown.com/..."},
-          {"nombre": "Itch.io", "url": "https://itch.io/..."}
+          {"nombre": "Itch.io", "url": "https://almacodes.itch.io/ecos-meteorologicos"}
         ],
         "datos_base": [
           "https://almacodes-tecnologia.github.io/ecos_meteorologicos/assets",
@@ -90,7 +90,7 @@
         ],
         "apk_externo": [
           {"nombre": "Uptodown", "url": "https://uptodown.com/..."},
-          {"nombre": "Itch.io", "url": "https://itch.io/..."}
+          {"nombre": "Itch.io", "url": "https://almacodes.itch.io/ecos-del-presente"}
         ],
         "imagenes_base": [
           "https://cdn.jsdelivr.net/gh/jesus-larrodera/ecos@main/ecos_del_presente/imagenes"
@@ -112,7 +112,7 @@
         ],
         "apk_externo": [
           {"nombre": "Uptodown", "url": "https://uptodown.com/..."},
-          {"nombre": "Itch.io", "url": "https://itch.io/..."}
+          {"nombre": "Itch.io", "url": "https://almacodes.itch.io/ecos-del-pasado"}
         ],
         "imagenes_base": [
           "https://cdn.jsdelivr.net/gh/jesus-larrodera/ecos@main/ecos_del_pasado/imagenes"
