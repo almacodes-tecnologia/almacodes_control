@@ -10,8 +10,7 @@
       "urls": {
         "apk": [
           "https://almacodes.netlify.app/apk/ecos_del_ciclismo/ecos_del_ciclismo.apk",
-          "https://gitlab.com/almacodes_tecnologia/almacodes_apps/-/raw/main/master/apk/ecos_del_ciclismo/ecos_del_ciclismo.apk",
-          "https://raw.githubusercontent.com/almacodes-tecnologia/almacodes_apps/main/apk/ecos_del_ciclismo/ecos_del_ciclismo.apk"
+          "https://github.com/almacodes-network/ecos_culinarios/releases/latest/download/ecos_culinarios.apk"
         ],
         "apk_externo": [
           {"nombre": "Uptodown", "url": "https://uptodown.com/..."},
@@ -93,7 +92,8 @@
           {"nombre": "Itch.io", "url": "https://almacodes.itch.io/ecos-del-presente"}
         ],
         "imagenes_base": [
-          "https://cdn.jsdelivr.net/gh/jesus-larrodera/ecos@main/ecos_del_presente/imagenes"
+          "https://cdn.jsdelivr.net/gh/jesus-larrodera/ecos@main/ecos_del_presente/imagenes",
+          "https://cdn.jsdelivr.net/gh/almacodes-network/ecos_del_presente@main/imagenes"
         ]
       }
     },
@@ -115,7 +115,8 @@
           {"nombre": "Itch.io", "url": "https://almacodes.itch.io/ecos-del-pasado"}
         ],
         "imagenes_base": [
-          "https://cdn.jsdelivr.net/gh/jesus-larrodera/ecos@main/ecos_del_pasado/imagenes"
+          "old_https://cdn.jsdelivr.net/gh/jesus-larrodera/ecos@main/ecos_del_pasado/imagenes",
+          "https://cdn.jsdelivr.net/gh/almacodes-network/ecos_del_pasado@main/imagenes"
         ]
       }
     }
