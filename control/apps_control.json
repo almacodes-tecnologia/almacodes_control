@@ -115,7 +115,6 @@
           {"nombre": "Itch.io", "url": "https://almacodes.itch.io/ecos-del-pasado"}
         ],
         "imagenes_base": [
-          "old_https://cdn.jsdelivr.net/gh/jesus-larrodera/ecos@main/ecos_del_pasado/imagenes",
           "https://cdn.jsdelivr.net/gh/almacodes-network/ecos_del_pasado@main/imagenes"
         ]
       }
