@@ -32,11 +32,10 @@
       "changelog": "Activada redundancia triple de servidores.",
       "urls": {
         "apk": [
-          "https://github.com/almacodes-network/ecos_meteorologicos/releases/latest/download/ecos_meteorologicos.apk",
-          "https://almacodes.netlify.app/apk/ecos_meteorologicos/ecos_meteorologicos.apk"
+          "https://github.com/almacodes-network/ecos_meteorologicos/releases/latest/download/ecos_meteorologicos.apk"
         ],
         "apk_externo": [
-          {"nombre": "Uptodown", "url": "https://uptodown.com/..."},
+          {"nombre": "Uptodown", "url": "https://ecos-meteorologicos.uptodown.com/android/descargar"},
           {"nombre": "Itch.io", "url": "https://almacodes.itch.io/ecos-meteorologicos"}
         ],
         "datos_base": [
@@ -56,8 +55,7 @@
       "changelog": "Lanzamiento de la APP",
       "urls": {
         "apk": [
-          "https://github.com/almacodes-network/ecos_culinarios/releases/latest/download/ecos_culinarios.apk",
-          "https://almacodes.netlify.app/apk/ecos_culinarios/ecos_culinarios.apk"
+          "https://github.com/almacodes-network/ecos_culinarios/releases/latest/download/ecos_culinarios.apk"
         ],
         "apk_externo": [
           {"nombre": "Uptodown", "url": "https://ecos-culinarios.uptodown.com/android/descargar"},
