@@ -9,7 +9,7 @@
       "changelog": "Activada redundancia triple de servidores.",
       "urls": {
         "apk": [
-          "https://github.com/almacodes-network/ecos_culinarios/releases/latest/download/ecos_culinarios.apk"
+          "https://github.com/almacodes-network/ecos_del_ciclismo/releases/latest/download/ecos_del_ciclismo.apk"
         ],
         "apk_externo": [
           {"nombre": "Uptodown", "url": "https://uptodown.com/..."},
@@ -20,7 +20,7 @@
           "https://ecosdelciclismo.netlify.app/assets"
         ],
         "imagenes_base": [
-          "https://cdn.jsdelivr.net/gh/jesus-larrodera/ecos_del_ciclismo@main/imagenes"
+          "https://cdn.jsdelivr.net/gh/almacodes-network/ecos_del_ciclismo@main/imagenes"
         ]
       }
     },
@@ -66,8 +66,7 @@
           "https://ecosculinarios.netlify.app/assets"
         ],
         "imagenes_base": [
-          "https://cdn.jsdelivr.net/gh/almacodes-network/ecos_culinarios@main/imagenes",
-          "_old_https://cdn.jsdelivr.net/gh/jesus-larrodera/ecos_culinarios@main/imagenes"
+          "https://cdn.jsdelivr.net/gh/almacodes-network/ecos_culinarios@main/imagenes"
         ]
       }
     },
