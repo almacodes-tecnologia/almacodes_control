@@ -129,8 +129,7 @@
           {"nombre": "Itch.io", "url": "https://almacodes.itch.io/ecos-del-futbol"}
         ],
         "datos_base": [
-          "https://almacodes-tecnologia.github.io/ecos_del_futbol/assets",
-          "https://ecosdelfutbol.netlify.app/assets"
+          "https://almacodes-tecnologia.github.io/ecos_del_futbol/assets"
         ],
         "imagenes_base": [
           "https://cdn.jsdelivr.net/gh/almacodes-network/ecos_del_futbol@main/imagenes"
