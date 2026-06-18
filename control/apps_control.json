@@ -113,6 +113,29 @@
           "https://cdn.jsdelivr.net/gh/almacodes-network/ecos_del_pasado@main/imagenes"
         ]
       }
+    },
+    {
+      "id": "ecos_del_futbol",
+      "version_name": "1.0.0",
+      "version_code": 1,
+      "force_update": false,
+      "changelog": "Inicialización del sistema de fútbol.",
+      "urls": {
+        "apk": [
+          "https://github.com/almacodes-network/ecos_del_futbol/releases/latest/download/ecos_del_futbol.apk"
+        ],
+        "apk_externo": [
+          {"nombre": "Uptodown", "url": "https://uptodown.com/..."},
+          {"nombre": "Itch.io", "url": "https://almacodes.itch.io/ecos-del-futbol"}
+        ],
+        "datos_base": [
+          "https://almacodes-tecnologia.github.io/ecos_del_futbol/assets",
+          "https://ecosdelfutbol.netlify.app/assets"
+        ],
+        "imagenes_base": [
+          "https://cdn.jsdelivr.net/gh/almacodes-network/ecos_del_futbol@main/imagenes"
+        ]
+      }
     }
   ]
 }
