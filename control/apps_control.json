@@ -12,7 +12,7 @@
           "https://github.com/almacodes-network/ecos_del_ciclismo/releases/latest/download/ecos_del_ciclismo.apk"
         ],
         "apk_externo": [
-          {"nombre": "Uptodown", "url": "https://uptodown.com/..."},
+          {"nombre": "Uptodown", "url": "https://ecos-del-ciclismo.uptodown.com/android/descargar"},
           {"nombre": "Itch.io", "url": "https://almacodes.itch.io/ecos-del-ciclismo"}
         ],
         "datos_base": [
@@ -106,7 +106,7 @@
           "https://github.com/almacodes-network/ecos_del_pasado/releases/latest/download/ecos_del_pasado.apk"
         ],
         "apk_externo": [
-          {"nombre": "Uptodown", "url": "https://uptodown.com/..."},
+          {"nombre": "Uptodown", "url": "https://ecos-del-pasado.uptodown.com/android/descargar"},
           {"nombre": "Itch.io", "url": "https://almacodes.itch.io/ecos-del-pasado"}
         ],
         "imagenes_base": [
@@ -133,6 +133,28 @@
         ],
         "imagenes_base": [
           "https://cdn.jsdelivr.net/gh/almacodes-network/ecos_del_futbol@main/imagenes"
+        ]
+      }
+    },
+        {
+      "id": "showteam",
+      "version_name": "1.0.0",
+      "version_code": 1,
+      "force_update": false,
+      "changelog": "Version inicial.",
+      "urls": {
+        "apk": [
+          "https://github.com/almacodes-network/ecos_del_ciclismo/releases/latest/download/showteam.apk"
+        ],
+        "apk_externo": [
+          {"nombre": "Uptodown", "url": "https://showteam.uptodown.com/android/descargar"},
+          {"nombre": "Itch.io", "url": "https://almacodes.itch.io/showteam"}
+        ],
+        "datos_base": [
+          "https://almacodes-tecnologia.github.io/showteam/assets"
+        ],
+        "imagenes_base": [
+          "https://cdn.jsdelivr.net/gh/almacodes-network/showteam@main/imagenes"
         ]
       }
     }
