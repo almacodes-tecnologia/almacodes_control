@@ -144,7 +144,7 @@
       "changelog": "Version inicial.",
       "urls": {
         "apk": [
-          "https://github.com/almacodes-network/ecos_del_ciclismo/releases/latest/download/showteam.apk"
+          "https://github.com/almacodes-network/showteam/releases/latest/download/showteam.apk"
         ],
         "apk_externo": [
           {"nombre": "Uptodown", "url": "https://showteam.uptodown.com/android/descargar"},
