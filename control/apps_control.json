@@ -5,7 +5,7 @@
       "id": "ecos_del_ciclismo",
       "version_name": "1.1.0",
       "version_code": 3,
-      "force_update": true,
+      "force_update": false,
       "changelog": "Renovación y mejora de la precisión de la altimetría.",
       "urls": {
         "apk": [
