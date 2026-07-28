@@ -3,10 +3,10 @@
   "apps": [
     {
       "id": "ecos_del_ciclismo",
-      "version_name": "1.0.1",
-      "version_code": 2,
-      "force_update": false,
-      "changelog": "Activada redundancia triple de servidores.",
+      "version_name": "1.1.0",
+      "version_code": 3,
+      "force_update": true,
+      "changelog": "Renovación y mejora de la precisión de la altimetría.",
       "urls": {
         "apk": [
           "https://github.com/almacodes-network/ecos_del_ciclismo/releases/latest/download/ecos_del_ciclismo.apk"
