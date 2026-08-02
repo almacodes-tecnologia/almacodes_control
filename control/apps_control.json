@@ -16,8 +16,7 @@
           {"nombre": "Itch.io", "url": "https://almacodes.itch.io/ecos-del-ciclismo"}
         ],
         "datos_base": [
-          "https://almacodes-tecnologia.github.io/ecos_del_ciclismo/assets",
-          "https://ecosdelciclismo.netlify.app/assets"
+          "https://almacodes-tecnologia.github.io/ecos_del_ciclismo/assets"
         ],
         "imagenes_base": [
           "https://cdn.jsdelivr.net/gh/almacodes-network/ecos_del_ciclismo@main/imagenes"
