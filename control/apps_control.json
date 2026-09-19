@@ -3,8 +3,8 @@
   "apps": [
     {
       "id": "ecos_del_ciclismo",
-      "version_name": "1.2.0",
-      "version_code": 4,
+      "version_name": "1.1.0",
+      "version_code": 3,
       "force_update": false,
       "changelog": "Nueva navegación de ciclistas, filtros por nacionalidad y época y mejoras generales de la aplicación.",
       "urls": {
