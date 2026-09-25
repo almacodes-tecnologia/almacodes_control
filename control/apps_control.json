@@ -3,8 +3,8 @@
   "apps": [
     {
       "id": "ecos_del_ciclismo",
-      "version_name": "1.2.0",
-      "version_code": 4,
+      "version_name": "1.2.1",
+      "version_code": 5,
       "force_update": false,
       "changelog": "Nueva navegación de ciclistas, filtros por nacionalidad y época y mejoras generales de la aplicación.",
       "urls": {
@@ -25,8 +25,8 @@
     },
     {
       "id": "ecos_meteorologicos",
-      "version_name": "1.0.0",
-      "version_code": 1,
+      "version_name": "1.0.2",
+      "version_code": 3,
       "force_update": false,
       "changelog": "Activada redundancia triple de servidores.",
       "urls": {
@@ -93,8 +93,8 @@
     },
     {
       "id": "ecos_del_pasado",
-      "version_code": 1,
-      "version_name": "1.0.0",
+      "version_code": 2,
+      "version_name": "1.0.1",
       "force_update": false,
       "urls": {
         "datos_base": [
