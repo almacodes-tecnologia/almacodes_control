@@ -23,6 +23,28 @@
         ]
       }
     },
+        {
+      "id": "cassette_arcade",
+      "version_name": "1.0.1",
+      "version_code": 2,
+      "force_update": false,
+      "changelog": "Lanzamiento oficial.",
+      "urls": {
+        "apk": [
+          "https://github.com/almacodes-network/cassette_arcade/releases/latest/download/cassette_arcade.apk"
+        ],
+        "apk_externo": [
+          {"nombre": "Uptodown", "url": "https://cassette-arcade.uptodown.com/android/descargar"},
+          {"nombre": "Itch.io", "url": "https://almacodes.itch.io/cassette-arcade"}
+        ],
+        "datos_base": [
+
+        ],
+        "imagenes_base": [
+
+        ]
+      }
+    },
     {
       "id": "ecos_meteorologicos",
       "version_name": "1.0.2",
