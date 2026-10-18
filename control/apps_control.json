@@ -28,14 +28,14 @@
       "version_name": "0.9.0",
       "version_code": 2,
       "force_update": false,
-      "changelog": "Inicio",
+      "changelog": "Beta cerrada",
       "urls": {
         "apk": [
-          ""
+          "https://github.com/almacodes-network/ecos/releases/latest/download/ecos.apk"
         ],
         "apk_externo": [
-          {"nombre": "Uptodown", "url": ""},
-          {"nombre": "Itch.io", "url": ""}
+          {"nombre": "Uptodown", "url": "https://ecos.uptodown.com/android/descargar"},
+          {"nombre": "Itch.io", "url": "https://almacodes.itch.io/ecos"}
         ],
         "datos_base": [
           "https://almacodes-tecnologia.github.io/ecos/assets"
