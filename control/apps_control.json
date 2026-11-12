@@ -68,6 +68,30 @@
       }
     },
     {
+  "id": "astro_arcade",
+  "version_name": "1.0.0",
+  "version_code": 1,
+  "force_update": false,
+  "changelog": "Lanzamiento inicial.",
+  "urls": {
+    "apk": [
+      "https://github.com/almacodes-network/astro_arcade/releases/latest/download/astro_arcade.apk"
+    ],
+    "apk_externo": [
+      {
+        "nombre": "Itch.io",
+        "url": "https://almacodes.itch.io/astro-arcade"
+      }
+    ],
+    "datos_base": [
+      "https://almacodes-tecnologia.github.io/astro_arcade/assets/data"
+    ],
+    "imagenes_base": [
+      "https://almacodes-tecnologia.github.io/astro_arcade/assets/images"
+    ]
+  }
+},
+    {
       "id": "ecos_meteorologicos",
       "version_name": "1.0.2",
       "version_code": 3,
